@@ -37,3 +37,4 @@ Login Session
 
     Start Session
     Login With       ${email}    ${password}
+    User Should Be Logged In    #checkpoint para o Jenkins
