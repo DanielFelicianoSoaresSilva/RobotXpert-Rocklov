@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Daniel Feliciano",
+        "email": "daniel@hotmail.com",
+        "password": "pwd123"
+    },
+    {
+        "name": "Richie Sambora",
+        "email": "sambora@bonjovi.com",
+        "password": "pwd123"
+    },
+    {
+        "name": "Rita Lee",
+        "email": "rita.lee@yahoo.com",
+        "password": "pwd123"
+    }
+]
