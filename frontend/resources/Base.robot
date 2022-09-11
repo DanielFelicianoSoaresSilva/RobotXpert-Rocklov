@@ -14,8 +14,8 @@ Resource    actions/EquipoActions.robot
 Resource    actions/LoginActions.robot
 
 *Keywords*
-Start Session
-    New Browser          chromium       False    slowMo=00:00:01
+Start Session                           #deixa dinamico e na hora de rodar no prompt adiciona: robot -d ./logs -v headless-True ou False tests/
+    New Browser          chromium       headless=${headless}    slowMo=00:00:01
     New Page             about:blank
     #Set Viewport Size    1920           1080
 
