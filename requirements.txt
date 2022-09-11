@@ -1,0 +1,5 @@
+pymongo
+pymongo[srv]
+robotframework
+robotframework-browser
+robotframework-requests
